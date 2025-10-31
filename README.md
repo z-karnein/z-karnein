@@ -11,4 +11,4 @@ About Me
 
 
 
-[![Zoulkarnein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Karnein)](https://github.com/anuraghazra/github-readme-stats)
+![Zoulkarnein's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

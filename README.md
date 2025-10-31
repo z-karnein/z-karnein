@@ -8,3 +8,7 @@ About Me
 - Born in Burkina Faso, raised in the Bronx, New York, and I am currently still living there.
 - Outside of work I like to play sports, workout, and watch anime
 - Let's connect via email: zoulkarneinbagagnan@gmail.com
+
+
+
+[![Zoulkarnein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Karnein)](https://github.com/anuraghazra/github-readme-stats)

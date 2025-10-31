@@ -11,4 +11,4 @@ About Me
 
 
 
-![Zoulkarnein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Karnein&show_icons=true&theme=radical)
+![Zoulkarnein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-Karnein&show_icons=true&theme=merko)

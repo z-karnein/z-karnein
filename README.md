@@ -32,8 +32,7 @@ About Me
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Z-Karnein&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Z-Karnein&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zu1ka&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Z-Karnein&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
